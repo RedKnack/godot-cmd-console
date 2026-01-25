@@ -51,4 +51,5 @@ MIT License — see `LICENSE`.
 
 ### Third-party assets (Font)
 This repository includes a font (`Unifontexmono-lxY45.ttf`) licensed under **GPL-2.0**.
-See `THIRD_PARTY_NOTICES.md` and `LICENSES/GPL-2.0.txt`.
+See `/addons/cmd_console/font/misc/LICENSE-b234`.
+
